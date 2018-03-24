@@ -1,6 +1,6 @@
 # Site settings
-title: Xiaojian Blog
-SEOTitle: 萧剑的博客 | Xiaojian Blog
+title: Xiaojian
+SEOTitle: 萧剑 | Xiaojian
 header-img: img/404-bg.jpg.jpg
 email: ristener@126.com
 description: "A android developer, a writer, thinker"
@@ -31,7 +31,7 @@ jianshu_username:   b8df8c5bec24
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -85,7 +85,7 @@ ga_domain: ristener.top               # 默认的是 auto, 这里我是自定义
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 

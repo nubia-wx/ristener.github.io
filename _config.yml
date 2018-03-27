@@ -1,17 +1,17 @@
 # Site settings
-title: Xiaojian
-SEOTitle: 萧剑 | Xiaojian
+title: WangXiong
+SEOTitle: 王雄 | WangXiong
 header-img: img/404-bg.jpg.jpg
 email: ristener@126.com
 description: "A android developer, a writer, thinker"
-keyword: "XJ, Xiaojian Blog, 萧剑的博客, xiaojian, Android, Java"
-url: "http://ristener.github.io"          # your host, for absolute URL
+keyword: "WX, WangXiong Blog, 王雄的博客, wangxiong, Android, Java"
+url: "http://wang-xiong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "走过，必留下点什么"
+sidebar-about-description: "时间就是故事，用键盘留下痕迹"
 sidebar-avatar: /img/404-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,9 +20,9 @@ sidebar-avatar: /img/404-bg.jpg      # use absolute URL, seeing it's used in bot
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    ristener
+github_username:    wang-xiong
 #facebook_username:  baiying.qiu.7
-jianshu_username:   b8df8c5bec24
+jianshu_username:   4088b29806be
 #twitter_username:   qiubaiying
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: ristener.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: wangxiong.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,11 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "精通比特币",
-        href: "http://book.8btc.com/books/1/master_bitcoin/_book/m"
-    },{
-        title: "简书·苏格拉哥 ",
-        href: "https://www.jianshu.com/users/b8df8c5bec24/timeline"
+        title: "简书·子谦宝宝 ",
+        href: "https://www.jianshu.com/u/4088b29806be"
     },{
         title: "Android Developer",
         href: "https://developers.google.cn/"

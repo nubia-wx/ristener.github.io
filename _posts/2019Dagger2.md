@@ -1,3 +1,14 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      第一篇博客         # 标题 
+subtitle:   Hello World, My First Blog #副标题
+date:       2018-03-27              # 时间
+author:     BY wangxiong                  # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 生活
+---
 # 一、注解
 
 元注解：元注解指注解的注解，包括@Retention @Target @Document @Inherited四种
